@@ -1,0 +1,37 @@
+{
+  "vision": {
+    "per_frame_probs": [
+      0.9483,
+      0.7567,
+      0.6037,
+      0.1359,
+      0.9797,
+      0.9468,
+      0.973,
+      0.9898,
+      0.9699,
+      0.8077,
+      0.9708,
+      0.8176,
+      0.9505,
+      0.4118,
+      0.9742,
+      0.0653
+    ],
+    "summary_prob": 0.9695
+  },
+  "audio": {
+    "music_likelihood": 0.4,
+    "components": {
+      "energy": 0.0,
+      "silence_inv": 1.0,
+      "harmonicity": 1.0,
+      "chroma_spread": 0.0,
+      "tempo": 0.0,
+      "centroid_mid_pref": 0.0
+    }
+  },
+  "fused": 0.8834,
+  "threshold": 0.5,
+  "decision": "Instrument playing"
+}
