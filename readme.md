@@ -186,11 +186,4 @@ MIT License © [Your Name]
 * [MoviePy Video Processing](https://zulko.github.io/moviepy/)
 * [Tkinter GUI](https://docs.python.org/3/library/tkinter.html)
 
-```
 
----
-
-If you want, I can also **write a ready-to-use `requirements.txt`** that exactly matches all imports in your code, so anyone can install everything with `pip install -r requirements.txt` without errors.  
-
-Do you want me to create that too?
-```
